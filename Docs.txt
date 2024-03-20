@@ -1,0 +1,3 @@
+type: Archivo B
+entity: Master B
+title: Ciclo 3
