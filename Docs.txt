@@ -1,3 +1,0 @@
-type: Archivo A
-entity: LML-1
-title: Ciclo 3
